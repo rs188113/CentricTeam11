@@ -29,7 +29,9 @@ textarea {
     background-color: darkslateblue
 }
 .jumbotron{
-    background-color: darkslateblue
+    background-color: darkslateblue;
+    color: white;
+       
 }
 .navbar-brand {
     background: url(https://centricconsulting.com/wp-content/themes/centric/assets/images/logo.jpg) no-repeat;
